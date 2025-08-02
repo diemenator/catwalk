@@ -39,7 +39,7 @@ var groqConfig []byte
 //go:embed configs/lambda.json
 var lambdaConfig []byte
 
-//go:embed configs/lambda.json
+//go:embed configs/nebius.json
 var nebiusConfig []byte
 
 // ProviderFunc is a function that returns a Provider.
