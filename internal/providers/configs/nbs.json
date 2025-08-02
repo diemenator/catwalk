@@ -15,5 +15,6 @@
       "id": "Qwen/Qwen2.5-Coder-32B-Instruct-fast",
       "name": "Qwen/Qwen2.5-Coder-32B-Instruct-fast",
     },
-  ]
+  ],
+  "$todo-comment": "see Continue for suppored reference models at https://github.com/continuedev/continue/blame/main/core/llm/llms/Nebius.ts"  
 }
