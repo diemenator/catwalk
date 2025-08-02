@@ -1,5 +1,5 @@
 {
-  "name": "nebius ai studio",
+  "name": "Nebius AI Studio",
   "id": "nebius",
   "api_key": "$NEBIUS_API_KEY",
   "api_endpoint": "https://api.studio.nebius.ai/v1",
