@@ -18,5 +18,5 @@
   ],
   "$todo-comment-1": "see continue for suppored reference models at https://github.com/continuedev/continue/blame/main/core/llm/llms/Nebius.ts"  ,
   "$todo-comment-2": "see legal & pricing information at https://studio.nebius.com/?modality=text2text",  
-  "$todo-comment-3": "find way to export the above from the base url at runtime",
+  "$todo-comment-3": "find way to export the above from the base url at runtime"
 }
